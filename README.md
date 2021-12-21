@@ -1,3 +1,3 @@
 # sriniviswa.github.io
 Site landing page
-Website - www.sriniviswa.github.io 
+Website - https://sriniviswa.github.io/
